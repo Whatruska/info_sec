@@ -4,7 +4,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Loader {
+public class Lesson_1 {
     private static final Random random = new Random();
     private static final int byteLength = 3;
     public static void main(String[] args) throws NoSuchAlgorithmException {
